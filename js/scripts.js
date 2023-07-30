@@ -23,3 +23,9 @@ window.addEventListener('DOMContentLoaded', event => {
     });
 
 });
+
+// Obtener elementos del DOM
+const ventanaEmergente = document.getElementById('ventanaEmergente');
+const mostrarModalLink = document.getElementById('mostrarModal');
+const enviarCorreoBtn = document.getElementById('enviarCorreo');
+const mensajeInput = document.getElementById('mensaje');
