@@ -1,4 +1,5 @@
 @charset "UTF-8";
+@import "https://unpkg.com/transition-style";
 
 
 :root {
@@ -5957,4 +5958,8 @@ section.resume-section .resume-section-content {
 
 .card-text-decoration{
   text-decoration: none;
+}
+
+#about{
+  background-color: #F1DAFB;
 }
